@@ -1,0 +1,29 @@
+# Nuitka output
+dist/
+*.dist/
+build/
+*.build/
+
+
+# Executables
+*.exe
+
+# Runtime-generated files
+config.ini
+ui_state.ini
+OXRT StatPlot Results/
+OXRT-StatPlot_Data/
+Results/
+.vscode/
+
+# Python cache
+__pycache__/
+pycache/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+#Powershell scripts
+*.onefile_build/
